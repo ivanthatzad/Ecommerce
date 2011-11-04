@@ -16,6 +16,8 @@ else
 	require SYSPATH.'classes/kohana'.EXT;
 }
 
+// A VER SI SE ACTUALIZA EN MAC.
+
 /**
  * Set the default time zone.
  *
