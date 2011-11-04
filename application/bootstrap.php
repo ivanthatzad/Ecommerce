@@ -41,6 +41,7 @@ setlocale(LC_ALL, 'en_US.utf-8');
 spl_autoload_register(array('Kohana', 'auto_load'));
 
 /**
+ * fsdklfsdkofhsd
  * Enable the Kohana auto-loader for unserialization.
  *
  * @see  http://php.net/spl_autoload_call
